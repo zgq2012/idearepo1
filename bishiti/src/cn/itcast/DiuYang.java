@@ -44,4 +44,7 @@ public class DiuYang {
     public void paixu2(){
 
     }
+    public void paixu3(){
+
+    }
 }
