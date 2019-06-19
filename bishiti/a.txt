@@ -1,0 +1,5 @@
+zhuangsan|15
+lisi|30
+wangwu|22
+lisi|30
+zhuangsan|15
