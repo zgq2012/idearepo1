@@ -1,4 +1,4 @@
-package cn.itcast;
+package cn.bis;
 
 import java.util.*;
 
