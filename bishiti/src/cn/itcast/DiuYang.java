@@ -39,5 +39,9 @@ public class DiuYang {
             list=yuList;
         }
 //        System.out.println(list);
+
+    }
+    public void paixu2(){
+
     }
 }
